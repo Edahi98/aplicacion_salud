@@ -22,8 +22,8 @@ class SmallLayout extends StatelessWidget {
             imagePath: "assets/agua.png",
           ),
           HealthCard(
-            title: "Salud",
-            subtitle: "Indicadores de salud general",
+            title: "Latidos del Corazón",
+            subtitle: "Indicadores de latidos por minuto",
             imagePath: "assets/salud.png",
           ),
         ],
